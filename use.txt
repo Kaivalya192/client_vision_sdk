@@ -1,0 +1,21 @@
+    # """
+    # SDK for interacting with the remote WebSocket inference server.
+    
+    # Available module_name values:
+    
+    # Continuous Inference Modules (use start_module() and get_current_result()):
+    # 1. "obj_detection" (YOLOModule)
+    # 2. "hum_pose_detection" (HumanPoseModule)
+    # 3. "yolo_seg_track" (YOLOSegTrack)
+    # 4. "hand_pose_detection" (HandPoseModule)
+    # 5. "midas_depth" (MiDaSModule)
+    
+    # Single-Run Inference Modules (use get_result()):
+    # 6. "gdino_inference" (GroundingDINOLocal)
+    # 7. "owl_vit" (OwlVitModule)
+    # 8. "ocr_detection" (PaddleOCRModule)
+    # 9. "llava_inference" (OllamaModule)
+    
+    # Stop Running Modules:
+    # 10. "stop_detection"
+    # """
