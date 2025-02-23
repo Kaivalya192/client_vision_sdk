@@ -10,6 +10,9 @@ The **Remote Inference SDK** provides an easy-to-use interface for interacting w
 - **Auto-Reconnection**: Handles connection loss and automatically reconnects.
 - **Queue-based Response Handling**: Ensures proper retrieval of inference results.
 
+## UI Demo
+[Vidio Link](https://youtu.be/y0k9ZsBPeOA)
+
 ## Installation
 Ensure you have Python 3.7+ installed. Then, install the required dependencies:
 
